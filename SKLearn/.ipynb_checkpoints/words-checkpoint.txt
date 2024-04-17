@@ -6,6 +6,7 @@ extract-提取
 identify-认出/识别/确认/发现
 ordinary-普通的
 pitfall-陷阱
+prompt-提示
 quote-引用
 sparse-稀疏
 survey-调查/考察
