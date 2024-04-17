@@ -1,6 +1,13 @@
+coefficient-系数
+combination-组合，结合体
 ConfusionMatrix-混淆矩阵
+describe-描述
 extract-提取
+identify-认出/识别/确认/发现
 ordinary-普通的
+pitfall-陷阱
 quote-引用
 sparse-稀疏
+survey-调查/考察
 vectorizer-向量化器
+wage-工资/报酬
