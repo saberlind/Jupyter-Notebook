@@ -1,9 +1,13 @@
+approach-方法
 coefficient-系数
 combination-组合，结合体
 ConfusionMatrix-混淆矩阵
+criteria-标准/准则
 describe-描述
 extract-提取
 identify-认出/识别/确认/发现
+in addition-此外
+metric-指标
 ordinary-普通的
 pitfall-陷阱
 prompt-提示
@@ -11,4 +15,5 @@ quote-引用
 sparse-稀疏
 survey-调查/考察
 vectorizer-向量化器
+via-通过/利用
 wage-工资/报酬
